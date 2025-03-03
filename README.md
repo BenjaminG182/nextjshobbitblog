@@ -1,6 +1,11 @@
-<<<<<<< HEAD
+
 # nextjshobbitblog
-A fun demo of nextjs blog features
-=======
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
->>>>>>> f69e19e (Initial commit from Create Next App)
+A fun demo of nextjs blog features done using Lord of the Rings characters and references. 
+
+# where to start?
+
+If you'd like to add more blog posts, add them to posts/ directory, ending in .md. 
+
+To update the single blog posts template, that's done in /pages/posts/[id].js
+
+Css is updated in /styles/global.css
